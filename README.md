@@ -1,53 +1,39 @@
 ![github-submission-banner](https://github.com/user-attachments/assets/a1493b84-e4e2-456e-a791-ce35ee2bcf2f)
 
 # 🚀 Project Title
-
-> A one-line tagline or mission statement for your project.
+SCHOOL MANAGEMENT SYSTEM
 
 ---
 
 ## 📌 Problem Statement
 
-Select the problem statement number and title from the official list given in Participant Manual.
-
-**Example:**  
-**Problem Statement 7 – Transform the Future of Rural Commerce**
+Problem Statement 11-Design a smart campus infrastructure toolkit
 
 ---
 
 ## 🎯 Objective
 
-What problem does your project solve, and who does it serve?  
-Briefly describe the real-world use case and the value it provides.
-
----
+this project is designed to manage student data and make it accessible for both students and faculty for changes
 
 ## 🧠 Team & Approach
 
 ### Team Name:  
-`Your team name here`
+Aravind
 
 ### Team Members:  
-- Name 1 (GitHub / LinkedIn / Role)  
-- Name 2  
-- Name 3  
-*(Add links if you want)*
+- Aravind-(GitHub:https://github.com/Aravind066390)
 
 ### Your Approach:  
-- Why you chose this problem  
-- Key challenges you addressed  
-- Any pivots, brainstorms, or breakthroughs during hacking  
+- I choose this problem because it's the type of problem I had faced it's not possible to access the student details always the aim is to make studetns details accessible
+- unavailability of digital infrastructure for students academic information collection through online sources
+- Learntabiut file handling and some new ideas
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Core Technologies Used:
-- Frontend:
-- Backend:
-- Database:
-- APIs:
-- Hosting:
+- C language
 
 ### Sponsor Technologies Used (if any):
 - [ ] **Groq:** _How you used Groq_  
@@ -63,10 +49,10 @@ Briefly describe the real-world use case and the value it provides.
 
 Highlight the most important features of your project:
 
-- ✅ Feature 1  
-- ✅ Feature 2  
-- ✅ Feature 3  
-- ✅ Feature 4  
+- ✅ Allows students to access their academic data
+- ✅ Allows faculty to edit students academic data
+- ✅ provides basic safe key feature(where faculty have keys to access data) 
+- ✅ Faculty can see the average abd marks if class or a individual student
 
 Add images, GIFs, or screenshots if helpful!
 
@@ -74,7 +60,7 @@ Add images, GIFs, or screenshots if helpful!
 
 ## 📽️ Demo & Deliverables
 
-- **Demo Video Link:** [Paste YouTube or Loom link here]  
+- **Demo Video Link:** [https://youtu.be/9OSl7kT-KTY?si=wLF2HZ86Rxi5xO_5]  
 - **Pitch Deck / PPT Link:** [Paste Google Slides / PDF link here]  
 
 ---
@@ -92,9 +78,8 @@ Add images, GIFs, or screenshots if helpful!
 ## 🧪 How to Run the Project
 
 ### Requirements:
-- Node.js / Python / Docker / etc.
-- API Keys (if any)
-- .env file setup (if needed)
+- C compiler.
+- basic file required for complete functioning a empty file as given in the code FILENAME. (students.txt) 
 
 ### Local Setup:
 ```bash
