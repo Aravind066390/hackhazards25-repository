@@ -102,22 +102,19 @@ Provide any backend/frontend split or environment setup notes here.
 
 List improvements, extensions, or follow-up features:
 
-- 📈 More integrations  
-- 🛡️ Security enhancements  
-- 🌐 Localization / broader accessibility  
+- 📈 More features like features that alllow students to view their academic average and the regions of improvements required
+- 🛡️ More Security enhancements  for future functioning
+- 🌐 no future ideas but plans to make it working as a app in future 
 
 ---
 
 ## 📎 Resources / Credits
-
-- APIs or datasets used  
-- Open source libraries or tools referenced  
-- Acknowledgements  
+- this project is not up to the mark but in future I expect to improve it. 
 
 ---
 
 ## 🏁 Final Words
 
-Share your hackathon journey — challenges, learnings, fun moments, or shout-outs!
+I had no such thing as a challenge and I had fun mostly trying to think in a new way as a student helped me build logic in smaller time durations and more efficient. 
 
 ---
