@@ -67,9 +67,9 @@ Add images, GIFs, or screenshots if helpful!
 
 ## ✅ Tasks & Bonus Checklist
 
-- [ ] **All members of the team completed the mandatory task - Followed at least 2 of our social channels and filled the form** (Details in Participant Manual)  
-- [ ] **All members of the team completed Bonus Task 1 - Sharing of Badges and filled the form (2 points)**  (Details in Participant Manual)
-- [ ] **All members of the team completed Bonus Task 2 - Signing up for Sprint.dev and filled the form (3 points)**  (Details in Participant Manual)
+- [✅] **All members of the team completed the mandatory task - Followed at least 2 of our social channels and filled the form** (Details in Participant Manual)  
+- [✅] **All members of the team completed Bonus Task 1 - Sharing of Badges and filled the form (2 points)**  (Details in Participant Manual)
+- [] **All members of the team completed Bonus Task 2 - Signing up for Sprint.dev and filled the form (3 points)**  (Details in Participant Manual)
 
 *(Mark with ✅ if completed)*
 
@@ -82,20 +82,23 @@ Add images, GIFs, or screenshots if helpful!
 - basic file required for complete functioning a empty file as given in the code FILENAME. (students.txt) 
 
 ### Local Setup:
-```bash
-# Clone the repo
-git clone https://github.com/your-team/project-name
-
-# Install dependencies
-cd project-name
-npm install
-
-# Start development server
-npm run dev
-```
+``````bash
+ git clone https://github.com/Aravind066390/hackhazards25-repository
+cd hackhazards25-repository
+`````````
 
 Provide any backend/frontend split or environment setup notes here.
+touch students.txt
+````bash
+gcc main.c -o student_app
+./student_app
 
+npm install
+
+
+npm run dev
+
+````
 ---
 
 ## 🧬 Future Scope
