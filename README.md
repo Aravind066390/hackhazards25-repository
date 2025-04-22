@@ -93,9 +93,9 @@ touch students.txt
 gcc main.c -o student_app
 ./student_app
 
+
+##Front end:
 npm install
-
-
 npm run dev
 
 ````
