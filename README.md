@@ -13,7 +13,7 @@ Problem Statement 11-Design a smart campus infrastructure toolkit
 
 ## 🎯 Objective
 
-this project is designed to manage student data and make it accessible for both students and faculty for changes
+this project is designed to manage student data and make it accessible for both student's and faculty for changes
 
 ## 🧠 Team & Approach
 
@@ -24,7 +24,7 @@ Aravind
 - Aravind-(GitHub:https://github.com/Aravind066390)
 
 ### Your Approach:  
-- I choose this problem because it's the type of problem I had faced it's not possible to access the student details always the aim is to make studetns details accessible
+- I choose this problem because it's the type of problem I had faced it's not possible to access the student details always the aim is to make students details accessible
 - unavailability of digital infrastructure for students academic information collection through online sources
 - Learntabiut file handling and some new ideas
 
@@ -52,7 +52,7 @@ Highlight the most important features of your project:
 - ✅ Allows students to access their academic data
 - ✅ Allows faculty to edit students academic data
 - ✅ provides basic safe key feature(where faculty have keys to access data) 
-- ✅ Faculty can see the average abd marks if class or a individual student
+- ✅ Faculty can see the average and marks if class or a individual student
 
 Add images, GIFs, or screenshots if helpful!
 
